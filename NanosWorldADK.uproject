@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "SunPosition",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
