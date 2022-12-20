@@ -3,12 +3,6 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "AndroidFileServer",
-			"Enabled": false
-		}
-	],
 	"TargetPlatforms": [
 		"Windows",
 		"Linux"
